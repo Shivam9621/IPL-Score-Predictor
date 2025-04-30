@@ -2,7 +2,6 @@
 
 This repository contains a machine learning project for predicting IPL (Indian Premier League) cricket scores based on historical data. The goal of this project is to build a regression model that can accurately predict the total score of a cricket team based on various features such as venue, batting team, bowling team, batsmen, and bowlers.
 
-![image](res/2.png)
 
 ## Project Overview
 
@@ -90,9 +89,8 @@ To run the project locally, follow these steps:
 
 ## Contact
 
-- [Twitter](https://twitter.com/arindal_17)
-- [GitHub](https://github.com/arindal1)
-- [LinkedIn](https://www.linkedin.com/in/arindalchar)
+- [GitHub](https://github.com/Shivam9621)
+- [LinkedIn](https://www.linkedin.com/in/shivam-jaiswal-116a06257/)
 
 ## License
 
